@@ -1,0 +1,4 @@
+id,booking_client,check_in_date,check_out_date,status
+1,1,2022-01-02,2022-01-05,pendente
+2,3,2022-01-05,2022-01-10,confirmado
+3,4,2022-01-05,2022-01-06,confirmado
